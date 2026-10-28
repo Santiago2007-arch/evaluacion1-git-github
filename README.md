@@ -28,9 +28,7 @@ git clone https://github.com/TU_USUARIO/evaluacion1-git-github.git
 cd evaluacion1-git-github
 ```
 
-**Nota:** Reemplaza `TU_USUARIO` por tu nombre de usuario de GitHub.
-
 ## Enlace del repositorio
 
-Puedes consultar el proyecto en [GitHub](https://github.com/).
+Puedes consultar el proyecto en [GitHub](https://github.com/Santiago2007-arch/evaluacion1-git-github).
 
